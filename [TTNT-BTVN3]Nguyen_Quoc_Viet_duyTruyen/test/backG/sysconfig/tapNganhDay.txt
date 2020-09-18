@@ -1,0 +1,6 @@
+5
+1 Cơ sở dữ liệu
+2 mạng máy tính
+3 lập trình web
+4 lập trình di động
+5 hệ thống thông tin

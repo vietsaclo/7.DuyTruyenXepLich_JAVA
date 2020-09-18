@@ -1,0 +1,21 @@
+lưu ý:
+- đây là ma trận biểu diễn mối quan hệ giữa các cán bộ và nghành day.
+- 1 nói lên cán bộ x có thể dạy ngành dạy y và 0 là ngược lại.
+- ma trận biểu diễn các hàng (rows) là các cán bộ, cột (column) là các ngành dạy.
+- các rows là các cán bộ mặt định sắp xếp tăng dần theo id mã hóa.
+
+----------------------------------------------------------
+===ngat===
+12 5
+1  1  0  1  1  
+1  0  1  1  0  
+0  1  0  1  0  
+0  1  1  1  1  
+0  1  0  1  1  
+1  1  1  0  0  
+1  0  1  1  0  
+0  1  1  0  1  
+1  1  0  1  1  
+0  0  0  1  1  
+1  1  0  1  0  
+1  1  1  0  1   
